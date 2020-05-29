@@ -1,0 +1,5 @@
+Enter the number: 34
+34 can be expressed as the sum of 3 and 31
+34 can be expressed as the sum of 5 and 29
+34 can be expressed as the sum of 11 and 23
+34 can be expressed as the sum of 17 and 17
